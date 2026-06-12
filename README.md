@@ -26,3 +26,7 @@ The system detects motion using a PIR sensor.
 
 - Arduino IDE
 - Cirkit Designer
+
+## Circuit Diagram
+
+![Circuit Diagram](circuit_design.png)
