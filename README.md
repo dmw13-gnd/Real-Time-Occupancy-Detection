@@ -38,3 +38,17 @@ The system detects motion using a PIR sensor.
 ## Arduino Code
 
 [View Arduino Source Code](Occupancy_Detection.ino)
+
+## Working
+
+1. PIR sensor detects motion.
+2. LED turns ON when motion is detected.
+3. If no motion is detected for 10 seconds, LED turns OFF.
+4. Energy consumption is reduced by avoiding unnecessary lighting.
+
+## Future Scope
+
+- Smart classroom automation
+- IoT monitoring
+- Attendance systems
+- Smart home integration
