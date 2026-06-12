@@ -30,3 +30,7 @@ The system detects motion using a PIR sensor.
 ## Circuit Diagram
 
 ![Circuit Diagram](circuit_design.png)
+
+## Circuit Simulation Link
+
+[View Cirkit Designer Simulation](https://app.cirkitdesigner.com/project/fc8c1c20-c3ee-4f36-a7d3-30ea475516cd)
