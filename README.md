@@ -34,3 +34,7 @@ The system detects motion using a PIR sensor.
 ## Circuit Simulation Link
 
 [View Cirkit Designer Simulation](https://app.cirkitdesigner.com/project/fc8c1c20-c3ee-4f36-a7d3-30ea475516cd)
+
+## Arduino Code
+
+[View Arduino Source Code](Occupancy_Detection.ino)
