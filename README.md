@@ -29,7 +29,7 @@ The system detects motion using a PIR sensor.
 
 ## Circuit Diagram
 
-![Circuit Diagram](circuit_design.png)
+![Circuit Diagram](circuit_diagram_on_simulator.png)
 
 ## Circuit Simulation Link
 
