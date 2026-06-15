@@ -100,7 +100,7 @@ The system successfully detected occupancy and controlled lighting automatically
 ## Gerber Files
 
 PCB Gerber files generated using EasyEDA are available in the repository and can be used directly for PCB fabrication.
-
+[Download Gerber Files](Gerber_Files.zip)
 ---
 
 ## Demo Video
