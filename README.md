@@ -31,6 +31,12 @@ The system detects motion using a PIR sensor.
 
 ![Circuit Diagram](circuit_diagram.png)
 
+## Hardware Prototype
+
+Actual implementation of the Real-Time Occupancy Detection System using Arduino Uno, PIR Motion Sensor, LED, resistor, and breadboard.
+
+![Hardware Prototype](hardware_prototype.jpg)
+
 ## Circuit Simulation Link
 
 [View Cirkit Designer Simulation](https://app.cirkitdesigner.com/project/fc8c1c20-c3ee-4f36-a7d3-30ea475516cd)
