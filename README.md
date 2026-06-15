@@ -1,5 +1,5 @@
 # Real-Time Occupancy Detection System for Energy Efficiency
-### Problem Statement
+## Problem Statement
 
 Develop a real-time occupancy detection system that automatically controls lighting based on human presence to improve energy efficiency.
 
@@ -14,7 +14,7 @@ Develop a real-time occupancy detection system that automatically controls light
 
 ---
 
-### **Scope of the Solution**
+## Scope of the Solution
 
 The system detects motion using a PIR sensor.
 - Light turns ON when occupancy is detected.
@@ -24,9 +24,9 @@ The system detects motion using a PIR sensor.
 
 ---
 
-### **Components Required**
+## Components Required
 
-## Hardware Components
+### Hardware Components
 
 | Component | Quantity |
 |------------|------------|
@@ -37,7 +37,7 @@ The system detects motion using a PIR sensor.
 | Breadboard | 1 |
 | Jumper Wires | As Required |
 
-## Software Components
+### Software Components
 
 - Arduino IDE
 - Cirkit Designer
@@ -99,8 +99,16 @@ The system successfully detected occupancy and controlled lighting automatically
 
 ## Gerber Files
 
+### PCB Layout
+
+![PCB Layout](pcb_layout.png)
+
+### Download Gerber Files
+
 PCB Gerber files generated using EasyEDA are available in the repository and can be used directly for PCB fabrication.
+
 [Download Gerber Files](Gerber_Files.zip)
+
 ---
 
 ## Demo Video
