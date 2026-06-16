@@ -113,7 +113,7 @@ PCB Gerber files generated using EasyEDA are available in the repository and can
 
 ## Demo Video
 
-[Watch Demo Video](https://drive.google.com/file/d/1ApfwxVGTRRi__-XB8ViLqAUHPvtT6CHl/view?usp=drive_link)
+[Watch Demo Video](https://drive.google.com/file/d/16e__4P1mm22HZsDIIxFNndPffXczOKBD/view?usp=drive_link)
 
 ---
 ## Future Scope
